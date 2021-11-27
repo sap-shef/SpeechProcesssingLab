@@ -15,6 +15,17 @@
    id="svg959"
    sodipodi:docname="autocorrelation_frequencies.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.75"
+     x="71.689903"
+     y="51.68478"
+     id="text1389-9"><tspan
+       sodipodi:role="line"
+       id="tspan1387-2"
+       x="71.689903"
+       y="51.68478"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">κ</tspan></text>
   <metadata
      id="metadata963">
     <rdf:RDF>
@@ -35,17 +46,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2400"
-     inkscape:window-height="1271"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      id="namedview961"
      showgrid="false"
      inkscape:zoom="1.7735043"
      inkscape:cx="334"
-     inkscape:cy="234"
-     inkscape:window-x="2391"
+     inkscape:cy="324.21687"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg959" />
+     inkscape:current-layer="svg959"
+     inkscape:document-rotation="0" />
   <defs
      id="defs490">
     <g
@@ -1477,17 +1489,6 @@
   </g>
   <g
      style="fill:#000000;fill-opacity:1"
-     id="g538">
-    <use
-       xlink:href="#glyph4-1"
-       x="255.8725"
-       y="347"
-       id="use536"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:1"
      id="g558">
     <use
        xlink:href="#glyph5-1"
@@ -2456,17 +2457,6 @@
   </g>
   <g
      style="fill:#000000;fill-opacity:1"
-     id="g866">
-    <use
-       xlink:href="#glyph31-1"
-       x="12.003"
-       y="131.062"
-       id="use864"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:1"
      id="g870">
     <use
        xlink:href="#glyph32-1"
@@ -2693,42 +2683,6 @@
      d="M 148,87 149.66406,82 148,83 146.33594,82 Z m 0,0"
      id="path956" />
   <g
-     style="fill:#000000;fill-opacity:1"
-     id="g538-8"
-     transform="translate(-187.54242,-295.57568)">
-    <use
-       xlink:href="#glyph4-1"
-       x="255.8725"
-       y="347"
-       id="use536-7"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:1"
-     id="g538-8-5"
-     transform="translate(-91.546031,-272.73953)">
-    <use
-       xlink:href="#glyph4-1"
-       x="255.8725"
-       y="347"
-       id="use536-7-3"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:1"
-     id="g538-8-5-9"
-     transform="translate(100.44674,-295.57568)">
-    <use
-       xlink:href="#glyph4-1"
-       x="255.8725"
-       y="347"
-       id="use536-7-3-2"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
      style="fill:#000000;fill-opacity:1;stroke-width:1.49267"
      id="g538-8-5-3"
      transform="matrix(0.66993829,0,0,0.66993829,25.305305,-135.74845)">
@@ -2741,4 +2695,49 @@
        height="100%"
        style="stroke-width:1.49267" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.75"
+     x="359.45779"
+     y="51.592781"
+     id="text1389"><tspan
+       sodipodi:role="line"
+       id="tspan1387"
+       x="359.45779"
+       y="51.592781"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">κ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.75"
+     x="-126.64624"
+     y="11.510077"
+     id="text1389-9-5"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan1387-2-0"
+       x="-126.64624"
+       y="11.510077"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">κ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.75"
+     x="259.03088"
+     y="346.44019"
+     id="text1389-9-3"><tspan
+       sodipodi:role="line"
+       id="tspan1387-2-3"
+       x="259.03088"
+       y="346.44019"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">κ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.75"
+     x="167.2634"
+     y="75.366699"
+     id="text1389-4"><tspan
+       sodipodi:role="line"
+       id="tspan1387-3"
+       x="167.2634"
+       y="75.366699"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">κ</tspan></text>
 </svg>
